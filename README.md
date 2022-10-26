@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishwa Tharu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwatharu&label=Profile%20views&color=0e75b6&style=flat" alt="bishwatharu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwatharu" alt="bishwatharu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bishwa_tharu" target="blank"><img src="https://img.shields.io/twitter/follow/bishwa_tharu?logo=twitter&style=for-the-badge" alt="bishwa_tharu" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://bishwa.vercel.app](https://bishwa.vercel.app)
 
@@ -21,3 +19,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwatharu&show_icons=true&locale=en" alt="bishwatharu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwatharu&" alt="bishwatharu" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwatharu&label=Profile%20views&color=0e75b6&style=flat" alt="bishwatharu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwatharu" alt="bishwatharu" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bishwa_tharu" target="blank"><img src="https://img.shields.io/twitter/follow/bishwa_tharu?logo=twitter&style=for-the-badge" alt="bishwa_tharu" /></a> </p>
